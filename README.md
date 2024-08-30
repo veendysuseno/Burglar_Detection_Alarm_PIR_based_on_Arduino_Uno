@@ -61,4 +61,4 @@ When motion is detected:
 
 ## Conclusion :
 
-- --> In this project the PIR sensor is used as a thief detector. How it works, if someone enters a room that has a PIR sensor, the PIR sensor will provide an output which will be read by the Arduino then the Arduino will turn on the LED and Buzzer.
+- In this project the PIR sensor is used as a thief detector. How it works, if someone enters a room that has a PIR sensor, the PIR sensor will provide an output which will be read by the Arduino then the Arduino will turn on the LED and Buzzer.
