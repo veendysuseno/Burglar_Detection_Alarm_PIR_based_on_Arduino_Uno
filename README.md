@@ -24,6 +24,12 @@ PIR (Passive Infrared), is a sensor that measures infrared radiation from an obj
 - Resistors 220 ohm = 1 piece;
 - Jumper wires = 10 piece.
 
+# Schematic:
+
+- Below you can see a schematic image to facilitate the wiring of cables from the microcontroller to devices, both input and output sensors:
+
+![Alt text](img/schematic.jpg)
+
 ## How It Works
 
 1. **Initialization**:
